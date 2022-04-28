@@ -1,4 +1,3 @@
-# 次回は重複している部分を関数にする
 import random as r
 
 min_num = 1
